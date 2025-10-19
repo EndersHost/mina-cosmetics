@@ -1,0 +1,16 @@
+cloth_color = {
+	["alchemist"] =	 	{ cloth_color = 0xff76547f, cloth_color_edge = 0xff9a6f9b,},
+	["hamis"] = 		{ cloth_color = 0xff4C2A3B, cloth_color_edge = 0xff6F3152,},
+	["ghost"] = 		{ cloth_color = 0xff191518, cloth_color_edge = 0xff33212C,},
+	["monk"] = 			{ cloth_color = 0xff573E3E, cloth_color_edge = 0xff876060,},
+	["spirit"] = 		{ cloth_color = 0xffAC7833, cloth_color_edge = 0xffE8A66B,},
+	["copper"] = 		{ cloth_color = 0xff5E6524, cloth_color_edge = 0xff9BA53E,},
+	["plastic"] = 		{ cloth_color = 0xff45858E, cloth_color_edge = 0xff64A9B3,},
+	["antler"] = 		{ cloth_color = 0xff7FCDE5, cloth_color_edge = 0xff9CF0F0,},
+	["gold"] = 			{ cloth_color = 0xff137EB0, cloth_color_edge = 0xff7EE2FA,},
+	["peasant"] = 		{ cloth_color = 0xff4D668C, cloth_color_edge = 0xff527DBD,},
+	["necromancer"] = 	{ cloth_color = 0xff352E62, cloth_color_edge = 0xff4E479B,},
+	["iron"] = 			{ cloth_color = 0xff3F3F3F, cloth_color_edge = 0xff504E55,},
+	["old"] = 			{ cloth_color = 0xff7D7C73, cloth_color_edge = 0xffACAA9B,},
+	["silk"] = 			{ cloth_color = 0xffE8E7DD, cloth_color_edge = 0xffFDFCF2,},
+}
